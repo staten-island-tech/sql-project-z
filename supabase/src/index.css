@@ -7,7 +7,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background-image: linear-gradient(to top right,#feda75, #fa7e1e, #d62976, #962fbf, #4f5bd5);
   background-attachment: fixed;
-  
 }
 h1,h3,p {
   color: white;
@@ -19,3 +18,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.form-label {
+  color: white;
+}
+
+
