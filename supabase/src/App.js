@@ -98,7 +98,7 @@ function App() {
               <Form.Label>Enter an email to sign in with a Supabase Magic Link</Form.Label>
               <Form.Control
                 type="email"
-                placeholder="Enter email"
+                placeholder="Please enter your email here"
                 onChange={(e) => setEmail(e.target.value)}
               />
             </Form.Group>
